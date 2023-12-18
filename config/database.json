@@ -1,0 +1,212 @@
+{
+  "users": [
+    {
+      "email": "wq@gmail.com",
+      "password": "testpassword123",
+      "firstName": "wq",
+      "lastName": "ew",
+      "phoneNumber": "21",
+      "id": "8e059026-bd1a-4c71-b9d0-578b3dc75258",
+      "createdAt": "2023-12-17T17:48:44.904Z"
+    },
+    {
+      "email": "wq@gmail.cOM",
+      "password": "122",
+      "firstName": "rwe",
+      "lastName": "321",
+      "phoneNumber": "222",
+      "id": "203ba865-6a38-4393-a672-e571f036a5b0",
+      "createdAt": "2023-12-17T18:23:59.315Z"
+    },
+    {
+      "firstName": "Dsa",
+      "lastName": 32,
+      "email": "fds@gmail.com",
+      "phoneNumber": "+38213542432",
+      "password": 21,
+      "id": "fb1ebcd6-f566-4651-af03-da70f28ea9ad",
+      "createdAt": "2023-12-18T19:03:10.542Z"
+    },
+    {
+      "firstName": "Dsa",
+      "lastName": 32,
+      "email": "fdss@gmail.com",
+      "phoneNumber": "+382135242432",
+      "password": 21,
+      "id": "d430982f-d0b5-456b-b75b-9ce0108eee63",
+      "createdAt": "2023-12-18T19:05:12.613Z"
+    }
+  ],
+  "fighters": [
+    {
+      "name": "Fighter1",
+      "power": 32,
+      "defense": 543,
+      "id": "a4baf93e-089c-491c-9ab0-a1eed9bc0879",
+      "createdAt": "2023-12-16T19:39:11.725Z"
+    },
+    {
+      "name": "4",
+      "power": 3,
+      "defense": 4,
+      "health": 100,
+      "id": "5d47f393-a974-425c-9fc2-a3fdc4243ab6",
+      "createdAt": "2023-12-17T22:31:17.721Z"
+    },
+    {
+      "name": "gf",
+      "power": 54,
+      "defense": 54,
+      "health": 100,
+      "id": "101c627d-9b9f-46fe-8c35-87aed9792409",
+      "createdAt": "2023-12-17T22:34:24.639Z"
+    },
+    {
+      "name": "dsa",
+      "power": 32,
+      "defense": 1,
+      "health": 100,
+      "id": "93e7fc17-d3e0-4ffa-8dfe-158ec8a9ef9b",
+      "createdAt": "2023-12-18T18:27:58.358Z"
+    }
+  ],
+  "fights": [
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "377b9bb5-708f-45c8-b0e5-b3ed704d34b9",
+      "createdAt": "2023-12-18T10:07:25.541Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "77d7d0ad-0d71-465b-8c5c-5f2026721c9b",
+      "createdAt": "2023-12-18T10:09:55.382Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "bd6e7f54-701e-4b06-a2ad-6f6547d180c7",
+      "createdAt": "2023-12-18T10:10:55.462Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "475dc6e9-589f-47ab-b4a1-2b01bac1e353",
+      "createdAt": "2023-12-18T10:13:09.951Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "71417472-da01-4aba-bfb7-b351a53013e1",
+      "createdAt": "2023-12-18T10:13:09.956Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "4",
+      "id": "b276cebb-c1c2-483e-8eda-95d890a6669b",
+      "createdAt": "2023-12-18T10:16:21.707Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "4",
+      "id": "5108927c-b82d-4786-ba1e-d11d823bd815",
+      "createdAt": "2023-12-18T10:16:21.722Z"
+    },
+    {
+      "fighter1": "gf",
+      "fighter2": "4",
+      "winner": "gf",
+      "id": "f88eabd6-1b15-484d-8901-b7fd4a701c9d",
+      "createdAt": "2023-12-18T10:18:19.231Z"
+    },
+    {
+      "fighter1": "gf",
+      "fighter2": "4",
+      "winner": "gf",
+      "id": "dd53da89-8e35-453e-bcde-ef45780d42d5",
+      "createdAt": "2023-12-18T10:18:19.236Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "8218671e-04b3-4462-9b29-af651d4454d4",
+      "createdAt": "2023-12-18T10:18:48.626Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "79e8a705-76eb-46a6-848d-30086371702c",
+      "createdAt": "2023-12-18T10:18:48.635Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "24e9b1c7-817e-4c46-a4f4-f6a15205a16e",
+      "createdAt": "2023-12-18T10:20:27.848Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "85f69b13-74a3-43fa-8b5d-63c392522d69",
+      "createdAt": "2023-12-18T10:20:27.850Z"
+    },
+    {
+      "id": "1d340263-04dd-4e46-826e-a8736f872de3",
+      "createdAt": "2023-12-18T10:25:01.324Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "fe80746e-89d1-4a20-a358-d68774ad2317",
+      "createdAt": "2023-12-18T12:31:21.659Z"
+    },
+    {
+      "fighter1": "4",
+      "fighter2": "gf",
+      "winner": "gf",
+      "id": "7be8b86b-ee25-481d-a02a-52ad182c1cbd",
+      "createdAt": "2023-12-18T12:31:21.679Z"
+    },
+    {
+      "fighter1": "gf",
+      "fighter2": "dsa",
+      "winner": "gf",
+      "id": "48c9d176-7872-4598-9551-0338a757f58c",
+      "createdAt": "2023-12-18T18:49:27.591Z"
+    },
+    {
+      "fighter1": "gf",
+      "fighter2": "dsa",
+      "winner": "gf",
+      "id": "74bd19b1-2ebc-43b2-a8a7-9e9b807a9d9b",
+      "createdAt": "2023-12-18T18:49:27.594Z"
+    },
+    {
+      "fighter1": "gf",
+      "fighter2": "dsa",
+      "winner": "gf",
+      "id": "f8bcf1ba-3c85-4bce-bbf1-70108e8c96af",
+      "createdAt": "2023-12-18T18:50:40.851Z"
+    },
+    {
+      "fighter1": "gf",
+      "fighter2": "dsa",
+      "winner": "gf",
+      "id": "fff9ef88-e700-45a4-b8b3-e1c78ef6abce",
+      "createdAt": "2023-12-18T18:50:40.855Z"
+    }
+  ]
+}
